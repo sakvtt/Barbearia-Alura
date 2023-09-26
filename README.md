@@ -5,4 +5,4 @@ Meu nome é Sabrina, sou uma estudnte do Colégio Estadual João XXIII
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](https://media.tenor.com/YwCoF_AO0wQAAAAC/inside-out-joy.gif)
+![](https://tenor.com/pt-BR/view/smurfs-dancing-cutley-smurf-papa-smurf-gif-26603473)
