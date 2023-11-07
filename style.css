@@ -6,7 +6,8 @@ body {
     width: 100%;
 }
 
-h1 {
+.principal {
+    background:rgb(0, 107, 111)
     color: #ff0000;
     background:rgb(55, 0, 255)
     text-align: center;
@@ -23,4 +24,19 @@ p {
 
 em strong {
     color: rgb(10, 0, 203);
+}
+
+.itens {
+    font-style: italic;
+
+}
+
+
+
+.benefícioa {
+    background:rgb(109, 0, 111)
+}
+
+h2 {
+    text-align: center;
 }
